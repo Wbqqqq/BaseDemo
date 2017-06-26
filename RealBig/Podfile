@@ -1,0 +1,27 @@
+
+# platform :ios, '8.0'
+inhibit_all_warnings!
+use_frameworks!
+
+
+
+target 'RealBig' do
+pod 'AFNetworking'
+pod 'SVProgressHUD'
+pod 'UITextView+Placeholder'
+pod 'SDWebImage'
+pod 'SDWebImage/GIF'
+pod 'MJRefresh'
+pod 'MJExtension'
+pod 'MMPopupView'
+pod 'IQKeyboardManager'
+pod 'ReactiveObjC'
+pod 'YYKit'
+pod 'FDFullscreenPopGesture'
+pod 'DZNEmptyDataSet','~> 1.7.3'
+pod 'pop'
+pod 'UITableView+FDTemplateLayoutCell'
+pod 'CHIPageControl', :git => 'https://github.com/ChiliLabs/CHIPageControl.git'
+pod 'CYLTabBarController'
+
+end

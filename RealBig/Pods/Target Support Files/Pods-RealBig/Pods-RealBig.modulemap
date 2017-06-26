@@ -1,0 +1,6 @@
+framework module Pods_RealBig {
+  umbrella header "Pods-RealBig-umbrella.h"
+
+  export *
+  module * { export * }
+}

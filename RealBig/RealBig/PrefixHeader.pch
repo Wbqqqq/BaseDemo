@@ -1,0 +1,53 @@
+//
+//  PrefixHeader.pch
+//  点看宁波
+//
+//  Created by wbq on 15/11/28.
+//  Copyright © 2015年 wbq. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Define.h"
+#import "Connect.h"
+#import "Utility.h"
+#import "AppDelegate.h"
+#import "ModelLocator.h"
+#import "BaseViewController.h"
+//#import "BaseNavigationViewController.h"
+#import <YYKit/YYKit.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+#import <SDWebImage/UIButton+WebCache.h>
+#import <SDWebImage/FLAnimatedImageView+WebCache.h>
+#import <MJExtension/MJExtension.h>
+#import <MJRefresh/MJRefresh.h>
+#import <ReactiveObjC/ReactiveObjC.h>
+#import <pop/pop.h>
+#import <UITableView_FDTemplateLayoutCell/UITableView+FDTemplateLayoutCell.h>
+#import <Masonry/Masonry.h>
+//#import <Masonry/Masonry.h>
+//#import <JPUSHService.h>
+#import <IQKeyboardManager/IQKeyboardManager.h>
+#import <UITextView_Placeholder/UITextView+Placeholder.h>
+
+#import <UMSocialCore/UMSocialCore.h>
+#import <FDFullscreenPopGesture/UINavigationController+FDFullscreenPopGesture.h>
+//#import "BaseTableView.h"
+//#import "ZJScrollPageViewDelegate.h"
+
+#import "UIImageView+BQAdd.h"
+#import "UIButton+BQAdd.h"
+#import "UIView+Nib.h"
+#import "UIImageView+CornerRadius.h"
+#endif /* PrefixHeader_pch */
+#import "UITabBar+RedSpeck.h"
+#import "BQPopupView.h"
+#import "BQHTTPClient.h"
+#import "BQAppConfiguration.h"
+#import "BQProgressHUD.h"
+#import "UIScrollView+BQEmptyDataSet.h"
+#import "BQThirdShareView.h"
+//#import "YLLoginViewController.h"
+#import "UITableView+YLMJRefresh.h"
+
